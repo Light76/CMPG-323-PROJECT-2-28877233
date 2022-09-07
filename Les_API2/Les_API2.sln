@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_API2", "Les_API2\Les_API2.csproj", "{2B00A138-481B-4EF2-AA51-EACF2C99AB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B00A138-481B-4EF2-AA51-EACF2C99AB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B00A138-481B-4EF2-AA51-EACF2C99AB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B00A138-481B-4EF2-AA51-EACF2C99AB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B00A138-481B-4EF2-AA51-EACF2C99AB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AE546B-465D-4FAC-B9FE-302446F78E90}
+	EndGlobalSection
+EndGlobal

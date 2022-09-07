@@ -1,0 +1,14 @@
+c:\users\28877233\source\repos\Les_API2\Les_API2\bin\Debug\netcoreapp2.1\Les_API2.deps.json
+c:\users\28877233\source\repos\Les_API2\Les_API2\bin\Debug\netcoreapp2.1\Les_API2.runtimeconfig.json
+c:\users\28877233\source\repos\Les_API2\Les_API2\bin\Debug\netcoreapp2.1\Les_API2.runtimeconfig.dev.json
+c:\users\28877233\source\repos\Les_API2\Les_API2\bin\Debug\netcoreapp2.1\Les_API2.dll
+c:\users\28877233\source\repos\Les_API2\Les_API2\bin\Debug\netcoreapp2.1\Les_API2.pdb
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.csprojAssemblyReference.cache
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.csproj.CoreCompileInputs.cache
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.RazorAssemblyInfo.cache
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.RazorAssemblyInfo.cs
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.AssemblyInfoInputs.cache
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.AssemblyInfo.cs
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.RazorTargetAssemblyInfo.cache
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.dll
+c:\users\28877233\source\repos\Les_API2\Les_API2\obj\Debug\netcoreapp2.1\Les_API2.pdb
